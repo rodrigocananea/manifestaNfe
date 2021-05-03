@@ -380,7 +380,7 @@ public class Main extends javax.swing.JFrame {
 
         jcbTipoCertificadoA3.setEditable(true);
         jcbTipoCertificadoA3.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
-        jcbTipoCertificadoA3.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "LEITOR_SCR3310", "TOKEN_ALADDIN", "LEITOR_GEMPC_PERTO", "OBERTHUR", "BANRISUL", " " }));
+        jcbTipoCertificadoA3.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "LEITOR_SCR3310", "TOKEN_ALADDIN", "LEITOR_GEMPC_PERTO", "OBERTHUR", "BANRISUL" }));
         jcbTipoCertificadoA3.setBorder(javax.swing.BorderFactory.createMatteBorder(1, 1, 1, 1, new java.awt.Color(51, 153, 255)));
         jcbTipoCertificadoA3.setFocusable(false);
         jcbTipoCertificadoA3.addItemListener(new java.awt.event.ItemListener() {
